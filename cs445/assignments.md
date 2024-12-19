@@ -1,12 +1,12 @@
+Please see canvas for complete information on assignments
+
 ## Project 1
 
 Low fidelity prototype / Figma walkthrough with testing and reporting
 
 ## Project 2 
 
-Full mockup 
-
-
+Full mockup in Vue.js
 
 ## Low fidelity prototype
 
@@ -28,7 +28,6 @@ Full mockup
 
 - Program a next.js application that implements a particular user flow
 
-
 ## Requirements finding practice - 2 weeks
 
 - Design an interview study and go out and talk to some folks
@@ -39,8 +38,6 @@ Full mockup
 
 ## Usability study
 - Useabiity study
-
-
 
 
 ## Weekly Reading Assignments

@@ -149,7 +149,6 @@ Getting feedback and interest in your game (showcase opportunities)
 ### In class
 Weekly Check in
 
-
 ## Week 13
 
 Playtest 2
