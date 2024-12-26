@@ -6,7 +6,7 @@ Personal brainstorming and solo prototyping
 
 ### Reading
 
-TODO
+Lemanchard 1-4
 
 ### Work
 
@@ -26,7 +26,7 @@ TODO
 
 ### Reading
 
-TODO
+Lemanchard 5-8
 
 ### Work
 
@@ -46,6 +46,8 @@ Digital prototyping
 
 ### Reading
 
+Lemanchard 9,10
+
 ### Work
 Begin group prototype 1
 
@@ -64,40 +66,37 @@ Day 2 - 3
 
 ### Reading
 
+Lemanchard 11,12
+
 ### Work
 
 Continue work on group prototype 1
 
-Day 1
-
-- Brainstorming on limited-concept idea  ( vr / casual / sim )
-
-Day 2
-- Production
-
-Day 3
+- Brainstorming on limited-concept idea  ( vr / casual / alt control / games for good )
 - Group application for project 2
 
 ## Week 5
 
 ### Reading
 
+Lemanchard 13, 14, 15
+
 ### Work
 
 Group prototype 2
+
 
 ## Week 6
 
 ### Reading
 
+Lemanchard 16, 17
+
  ### Work
 
 Continue work on Group Prototype 2
-
-Day 2 
 - Evaluate prototypes
 
-Day 3
 - Narrow down prototypes - place onto slide deck
 - Discuss and rate prototypes
     - SWOT
@@ -109,7 +108,11 @@ Day 3
 
 ## Week 7
 
-Begin preproduction
+### Reading
+
+Lemanchard 18, 19
+
+### Begin preproduction
 
 - Create a notion board for the design
 - Set goals for the weekly production assigned to each member
@@ -119,12 +122,32 @@ Begin preproduction
 
 ## Week 8
 
+### Reading
+https://www.sba.gov/business-guide/launch-your-business/choose-business-structure
+https://www.wolterskluwer.com/en/expert-insights/what-is-dba-when-to-file-one-for-your-business
+https://www.wolterskluwer.com/en/expert-insights/what-is-a-sole-proprietorship-and-how-to-start-one
+https://www.wolterskluwer.com/en/expert-insights/how-to-form-an-llc-what-is-an-llc-advantages-disadvantages-and-more
+
+
 Business of games
+
+- business structure
+- funding structures
+- pitching your game
+- marketplaces
+- general costs
+- marketing
 
 ### In class
 Weekly Check in
 
 ## Week 9
+
+### Reading
+Lemanchard 19,20
+
+
+### In Class
 
 Weekly Check in
 Establishing a professional presence
@@ -132,6 +155,8 @@ Establishing a professional presence
 ## Week 10
 
 ### Milestone 1 and Re-evaluation
+
+- 
 
 
 ## Week 11
@@ -172,6 +197,8 @@ Open / demo page refinement
 Presentation
 
 
+---
+
 ## Weekly Check ins
 
 - Every group member must have 1 item submitted to the git repo
@@ -193,6 +220,7 @@ Step back and analyze (in a written report):
 - Reuseability / modularity of features
 - Task load
 - Perceived fun
+- Match between player goals and system
 
 Then:
 
@@ -213,4 +241,4 @@ With a build of your game uploaded to itch.io (and password protected)
 - Get peers to download and access your game ( a web build is preferrable, when possible )
 - *watch them* during the gameplay. Take active notes. Look for misunderstanding, moments of joy, gameplay you did not expect, frustation, or new ways of playing that could add to the game
 - Do this with as many people as possible (3 minimum)
-- From these notes, place a set of action items on your 
+- From these notes, place a set of action items on your collaboration board

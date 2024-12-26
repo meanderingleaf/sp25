@@ -69,8 +69,8 @@ https://ballstate.udemy.com/course/vue-js-v3-super-fast-course-from-zero-to-adva
 ## Week 5
 
 ### Reading
-Rogers, Sharp, & Preece CH 8
-https://ballstate.udemy.com/course/vue-js-v3-super-fast-course-from-zero-to-advanced-web-development/
+- Rogers, Sharp, & Preece CH 8
+- https://ballstate.udemy.com/course/vue-js-v3-super-fast-course-from-zero-to-advanced-web-development/
 
 ## In Class
 
@@ -87,8 +87,8 @@ https://ballstate.udemy.com/course/vue-js-v3-super-fast-course-from-zero-to-adva
 **Project 1 assigned**
 
 ### Reading
-Rogers, Sharp, & Preece CH 9
-https://ballstate.udemy.com/course/vue-js-v3-super-fast-course-from-zero-to-advanced-web-development/
+- Rogers, Sharp, & Preece CH 9
+- https://ballstate.udemy.com/course/vue-js-v3-super-fast-course-from-zero-to-advanced-web-development/
 
 ### In class
 - Needs assessment
@@ -101,9 +101,8 @@ https://ballstate.udemy.com/course/vue-js-v3-super-fast-course-from-zero-to-adva
 ## Week 7
 
 ### Reading
-Rogers, Sharp, & Preece CH 4
-
-https://ballstate.udemy.com/course/practical-usability-product-design/
+- Rogers, Sharp, & Preece CH 4
+- https://ballstate.udemy.com/course/practical-usability-product-design/
 
 ### In Class
 - Data interpretation / evaluation
@@ -116,7 +115,7 @@ https://ballstate.udemy.com/course/practical-usability-product-design/
 ## Week 8
 
 ### Reading
-https://ballstate.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-guide/
+- https://ballstate.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-guide/
 
 ### In class
 
@@ -130,8 +129,8 @@ https://ballstate.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-gui
 ## Week 9
 
 ### Reading
-https://ballstate.udemy.com/course/design-rules/
-https://www.youtube.com/watch?v=2uZYKcKHgU0&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5
+- https://ballstate.udemy.com/course/design-rules/
+- https://www.youtube.com/watch?v=2uZYKcKHgU0&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5
 
 ### In class
 
@@ -142,7 +141,7 @@ https://www.youtube.com/watch?v=2uZYKcKHgU0&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3
 
 ### Reading
 
-https://ballstate.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-guide/
+- https://ballstate.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-guide/
 
 ### In Class
 - Personas / user experience
@@ -155,7 +154,7 @@ https://ballstate.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-gui
 **Project 2 assigned**
 
 ### Reading
-https://ballstate.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-guide/
+- https://ballstate.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-guide/
 
 ### In Class
 - Implementng a UI
@@ -168,7 +167,7 @@ https://ballstate.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-gui
 ## Week 12
 
 ### Reading
-https://ballstate.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-guide/
+- https://ballstate.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-guide/
 
 ### In class
 - Discuss mock up with peers
@@ -178,7 +177,7 @@ https://ballstate.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-gui
 ## Week 13
 
 ### Reading
-Rogers, Sharp, & Preece CH 5
+- Rogers, Sharp, & Preece CH 5
 
 ### In class
 - Social design discussion
@@ -186,7 +185,7 @@ Rogers, Sharp, & Preece CH 5
 ## Week 14
 
 ### Reading
-Rogers, Sharp, & Preece CH 14
+- Rogers, Sharp, & Preece CH 14
 
 ### In Class
 - Emotional design 
